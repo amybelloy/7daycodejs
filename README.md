@@ -1,1 +1,1 @@
-# 7daycodejs
+# 7dayofcode 2/7
